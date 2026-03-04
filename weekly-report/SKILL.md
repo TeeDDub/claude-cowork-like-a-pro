@@ -1,9 +1,6 @@
 ---
 name: weekly-report
-description: >
-  팀 주간보고 Word 문서를 작성할 때 사용합니다.
-  다음 표현이 포함된 요청에 작동합니다: 주간보고, 주간 실적, 주간 현황,
-  이번 주 보고서, weekly report.
+description: 팀 주간보고 Word 문서를 작성할 때 사용합니다. 다음 표현이 포함된 요청에 작동합니다: 주간보고, 주간 실적, 주간 현황, 이번 주 보고서, weekly report.
 ---
 
 # 주간보고 스킬
